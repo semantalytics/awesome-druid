@@ -21,6 +21,19 @@
 - [druid-client](https://github.com/implydata/druid-client)
 - [druid-console](https://github.com/druid-io/druid-console)
 - [cm-druid](https://github.com/knoguchi/cm-druid)
+- [druid-monitor](https://github.com/shrekwang/druid-monitor)
+- [druidlet](https://github.com/InferlyticsOSS/druidlet)
+- [yahoo-druid-extensions](https://github.com/yahoo/druid-extensions)
+- [druid-hadoop-utils](https://github.com/himanshug/druid-hadoop-utils)
+- [druid-ansible](https://github.com/imungoma/druid-ansible)
+- [kafka-spark-streaming-druid](https://github.com/ramkumarvenkat/kafka-spark-streaming-druid)
+- [druid-metrics-to-kafka](https://github.com/quantiply/druid-metrics-to-kafka)
+- [druid-rpm](https://github.com/cleberar/druid-rpm)
+- [tranquility](https://github.com/druid-io/tranquility)
+- [druid-hadoop-inputformat](https://github.com/implydata/druid-hadoop-inputformat)
+- [sherlock](https://github.com/yahoo/sherlock)
+- [druid-scala-client](https://github.com/daggerrz/druid-scala-client)
+
 
 ## UI
 - [swiv](https://github.com/yahoo/swiv)
