@@ -13,6 +13,7 @@
 - [druid-puppet](https://github.com/MrAlias/druid) Puppet module that sets up and configures a full druid cluster
 - [fili](https://github.com/yahoo/fili) Easily make RESTful web services for time series reporting with Big Data analytics engines like Druid and Hive. 
 - [node-druid-query](https://github.com/7eggs/node-druid-query)
+- [embedded-druid](https://github.com/eBay/embedded-druid)
 
 ## UI
 - [swiv](https://github.com/yahoo/swiv)
