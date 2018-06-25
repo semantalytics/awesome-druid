@@ -27,6 +27,7 @@
 - [druid-spark-batch](https://github.com/metamx/druid-spark-batch)
 - [plyql](https://github.com/implydata/plyql)
 - [druid-spark-batch](https://github.com/metamx/druid-spark-batch)
+- [druid-mdx](https://github.com/julianhyde/druid-mdx) Example of running MDX on Druid via Mondrian and Calcite 
 
 ## Deployment
 - [druid-puppet](https://github.com/MrAlias/druid) Puppet module that sets up and configures a full druid cluster
