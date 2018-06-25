@@ -46,6 +46,8 @@
 ## UI
 - [swiv](https://github.com/yahoo/swiv)
 - [superset](http://superset.apache.org)
+- [metabase](https://github.com/metabase/metabase)
+- [graphana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin)
 
 ## Clients
 
@@ -90,15 +92,8 @@
 
 - [druidry](https://github.com/zapr/druidry) - A Java Client and query generator for Druid
 
-Other Druid Distributions
+## Other Druid Distributions
 
 - [Imply Analytics Platform]() - The Imply Analytics platform includes Druid bundled with all its dependencies, an exploratory analytics UI, and a SQL layer.
 - [embedded-druid](https://github.com/eBay/embedded-druid) - Leveraging Druid capabilities in stand alone application
-
-UIs
-
-- [superset](http://superset.apache.org) - A web application to slice, dice and visualize data out of Druid. Formerly Caravel and Panoramix
-- [grafana]() - A plugin for Grafana
-- [Pivot]() - An exploratory analytics UI for Druid
-- [Metabase]() - Simple dashboards, charts and query tool for your Druid DB
 
