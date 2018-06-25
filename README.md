@@ -26,6 +26,7 @@
 - [druid-scala-client](https://github.com/daggerrz/druid-scala-client)
 - [druid-spark-batch](https://github.com/metamx/druid-spark-batch)
 - [plyql](https://github.com/implydata/plyql)
+- [druid-spark-batch](https://github.com/metamx/druid-spark-batch)
 
 ## Deployment
 - [druid-puppet](https://github.com/MrAlias/druid) Puppet module that sets up and configures a full druid cluster
