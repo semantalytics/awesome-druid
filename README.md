@@ -37,11 +37,9 @@
 - [druid-ansible](https://github.com/imungoma/druid-ansible)
 - [cm-druid](https://github.com/knoguchi/cm-druid)
 
-
 ## Monitoring
 - [druid-monitor](https://github.com/shrekwang/druid-monitor)
 - [druid-metrics-to-kafka](https://github.com/quantiply/druid-metrics-to-kafka)
-
 
 ## UI
 - [swiv](https://github.com/yahoo/swiv)
@@ -92,8 +90,6 @@
 
 - [druidry](https://github.com/zapr/druidry) - A Java Client and query generator for Druid
 
-## Other Druid Distributions
+## Blogs
 
-- [Imply Analytics Platform]() - The Imply Analytics platform includes Druid bundled with all its dependencies, an exploratory analytics UI, and a SQL layer.
-- [embedded-druid](https://github.com/eBay/embedded-druid) - Leveraging Druid capabilities in stand alone application
-
+- [How to reduce the number of druid segments]http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/
