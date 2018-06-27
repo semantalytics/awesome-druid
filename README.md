@@ -92,4 +92,14 @@
 
 ## Blogs
 
-- [How to reduce the number of druid segments]http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/
+- [How to reduce the number of druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
+
+## Videos
+
+- [Druid Interactive Queries Meet Real-Time Data Eric Tschetter and Danny Yuan 2013](https://www.youtube.com/watch?v=Dlqj34l2upk)
+- [Druid: Powering Interactive Data Applications at Scale by Fangjin Yang 2016](https://www.youtube.com/watch?v=vbH8E0nH2Nw)
+- [Interactive Exploratory Analytics with Druid | DataEngConf SF 2017](https://www.youtube.com/watch?v=rbQaCazQ0gI)
+- [How Superset and Druid Power Real-Time Analytics at Airbnb | DataEngConf SF 2017](https://www.youtube.com/watch?v=W_Sp4jo1ACg)
+- [Analyze Streaming Data in About 30 Minutes with HDP and Druid 2017](https://www.youtube.com/watch?v=pvtdvoZ83uk)
+- [Introduction to Druid by Fangjin Yang 2014](https://www.youtube.com/watch?v=GtHu4TVs0xI)
+- [DRUID SUB SECOND OLAP QUERIES OVER PETABYTES OF STREAMING DATA 2017](https://www.youtube.com/watch?v=iIaceyMLrQA)
