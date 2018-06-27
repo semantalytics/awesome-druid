@@ -93,6 +93,14 @@
 ## Blogs
 
 - [How to reduce the number of druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
+- [Druid Blog](http://druid.io/blog/)
+- [Druid, Imply and Looker 5 bring OLAP Analysis to BigQuery’s Data Warehouse](https://medium.com/mark-rittman/druid-imply-and-looker-5-bring-olap-analysis-to-bigquerys-data-warehouse-ae0cb5ffb3a4)
+- [Comparison of the Open Source OLAP Systems for Big Data: ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
+- [Yahoo Casts Real-Time OLAP Queries with Druid (2014)](https://www.datanami.com/2015/08/04/yahoo-casts-real-time-olap-queries-with-druid/)
+
+## Articles
+
+- [TECH TALK: AtScale, Hive, Druid: A Match Made In Heaven](http://blog.atscale.com/hive-druid-atscale)
 
 ## Videos
 
