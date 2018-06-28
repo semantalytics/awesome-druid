@@ -111,3 +111,5 @@
 - [Analyze Streaming Data in About 30 Minutes with HDP and Druid 2017](https://www.youtube.com/watch?v=pvtdvoZ83uk)
 - [Introduction to Druid by Fangjin Yang 2014](https://www.youtube.com/watch?v=GtHu4TVs0xI)
 - [DRUID SUB SECOND OLAP QUERIES OVER PETABYTES OF STREAMING DATA 2017](https://www.youtube.com/watch?v=iIaceyMLrQA)
+- [Jan Graßegger - Real-time analytics with Flink and Druid 2016](https://www.youtube.com/watch?v=mYGF4BUwtaw)
+- [Real Time Analytics at Scale with Druid 28, 2017](https://www.youtube.com/watch?v=tFIdKPHP0ts)
