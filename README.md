@@ -100,6 +100,7 @@
 
 ## Articles
 
+- [The anatomy of a Druid segment file](https://medium.com/engineers-optimizely/the-anatomy-of-a-druid-segment-file-bed89a93af1e)
 - [TECH TALK: AtScale, Hive, Druid: A Match Made In Heaven](http://blog.atscale.com/hive-druid-atscale)
 
 ## Videos
