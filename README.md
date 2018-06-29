@@ -27,6 +27,9 @@
 - [plyql](https://github.com/implydata/plyql)
 - [druid-spark-batch](https://github.com/metamx/druid-spark-batch)
 - [druid-mdx](https://github.com/julianhyde/druid-mdx) Example of running MDX on Druid via Mondrian and Calcite 
+- [Ultra-fast OLAP Analytics with Apache Hive and Druid – Part 1 of 3](https://hortonworks.com/blog/apache-hive-druid-part-1-3/)
+- [Benchmark: Sub-Second Analytics with Apache Hive and Druid - Part 2 of 3](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
+- [How to connect Tableau to Druid - Part 3 of 3](https://hortonworks.com/blog/connect-tableau-druid-hive/)
 
 ## Deployment
 - [druid-puppet](https://github.com/MrAlias/druid) Puppet module that sets up and configures a full druid cluster
@@ -112,6 +115,7 @@
 - [Jan Graßegger - Real-time analytics with Flink and Druid 2016](https://www.youtube.com/watch?v=mYGF4BUwtaw)
 - [Real Time Analytics at Scale with Druid 28, 2017](https://www.youtube.com/watch?v=tFIdKPHP0ts)
 - [https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/](Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets)
+
 
 ## Papers
 
