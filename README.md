@@ -119,8 +119,14 @@
 
 ## Alternatives
 
-- [Pinot]
-- [Clickhouse]
-- [Kylin]
-- [Spark]
-- [Kudu]
+- [Pinot](https://github.com/linkedin/pinot)
+- [ClickHouse](https://clickhouse.yandex/)
+- [Kylin](https://kylin.apache.org/)
+- [Spark](https://spark.apache.org/)
+- [Kudu](https://www.cloudera.com/products/open-source/apache-hadoop/apache-kudu.html)
+- [Flink](https://flink.apache.org/)
+
+## OpenSource OLAP
+- [Olap4j]
+- [Mondrian]
+- [Pentaho]
