@@ -8,7 +8,6 @@
 - [Imply](http://imply.io)
 - [druid-spring-boot](https://github.com/drtrang/druid-spring-boot) Spring Boot starter for Druid
 - [grafana-druid-plugin](https://github.com/grafana-druid-plugin/druidplugin) This repository contains the druid plugin for Grafana 3.0
-- [druidry](https://github.com/zapr-oss/druidry) Java based Druid Query Generator library
 - [fili](https://github.com/yahoo/fili) Easily make RESTful web services for time series reporting with Big Data analytics engines like Druid and Hive. 
 - [node-druid-query](https://github.com/7eggs/node-druid-query)
 - [embedded-druid](https://github.com/eBay/embedded-druid)
@@ -88,7 +87,7 @@
 
 ### Java
 
-- [druidry](https://github.com/zapr/druidry) - A Java Client and query generator for Druid
+- [druidry](https://github.com/zapr-oss/druidry) - A Java Client and query generator for Druid
 
 ## Blogs
 
