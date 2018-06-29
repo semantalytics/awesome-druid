@@ -127,6 +127,8 @@
 - [Flink](https://flink.apache.org/)
 
 ## OpenSource OLAP
-- [Olap4j]
-- [Mondrian]
-- [Pentaho]
+- [olap4j](http://olap4j.org/)
+- [Mondrian](https://community.hitachivantara.com/docs/DOC-1009853)
+- [Pentaho](https://www.hitachivantara.com/go/pentaho.html?source=pentaho-redirect)
+- [jdbc4olap](http://www.jdbc4olap.org/)
+- [Saiku](https://github.com/OSBI/saiku)
