@@ -116,3 +116,11 @@
 
 - [Optimizing Druid with Roaring bitmaps](https://www.researchgate.net/profile/Daniel_Lemire/publication/304352004_Optimizing_Druid_with_Roaring_bitmaps/links/5a3a9268a6fdcc3d07afb140/Optimizing-Druid-with-Roaring-bitmaps.pdf?origin=publication_detail)
 - [Druid: A real-time analytical data store](https://www.researchgate.net/profile/Fangjin_Yang/publication/266656620_Druid_A_real-time_analytical_data_store/links/54f5e1760cf21d8b8a5b957a/Druid-A-real-time-analytical-data-store.pdf?origin=publication_detail)
+
+## Alternatives
+
+- [Pinot]
+- [Clickhouse]
+- [Kylin]
+- [Spark]
+- [Kudu]
