@@ -89,18 +89,16 @@
 
 - [druidry](https://github.com/zapr-oss/druidry) - A Java Client and query generator for Druid
 
-## Blogs
 
+## Articles & Blog posts
 - [How to reduce the number of druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
 - [Druid Blog](http://druid.io/blog/)
 - [Druid, Imply and Looker 5 bring OLAP Analysis to BigQuery’s Data Warehouse](https://medium.com/mark-rittman/druid-imply-and-looker-5-bring-olap-analysis-to-bigquerys-data-warehouse-ae0cb5ffb3a4)
 - [Comparison of the Open Source OLAP Systems for Big Data: ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
 - [Yahoo Casts Real-Time OLAP Queries with Druid (2014)](https://www.datanami.com/2015/08/04/yahoo-casts-real-time-olap-queries-with-druid/)
-
-## Articles
-
 - [The anatomy of a Druid segment file](https://medium.com/engineers-optimizely/the-anatomy-of-a-druid-segment-file-bed89a93af1e)
 - [TECH TALK: AtScale, Hive, Druid: A Match Made In Heaven](http://blog.atscale.com/hive-druid-atscale)
+- [Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/)
 
 ## Videos
 
