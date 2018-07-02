@@ -102,6 +102,7 @@
 - [The anatomy of a Druid segment file](https://medium.com/engineers-optimizely/the-anatomy-of-a-druid-segment-file-bed89a93af1e)
 - [TECH TALK: AtScale, Hive, Druid: A Match Made In Heaven](http://blog.atscale.com/hive-druid-atscale)
 - [Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/)
+- [Why We Chose Druid to Power CoolaData’s Real-Time Analytics](http://www.dataprix.com/en/blog-it/analytics/why-we-chose-druid-power-cooladata-s-real-time-analytics)
 
 ## Videos
 
