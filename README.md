@@ -115,7 +115,7 @@
 - [DRUID SUB SECOND OLAP QUERIES OVER PETABYTES OF STREAMING DATA 2017](https://www.youtube.com/watch?v=iIaceyMLrQA)
 - [Jan Graßegger - Real-time analytics with Flink and Druid 2016](https://www.youtube.com/watch?v=mYGF4BUwtaw)
 - [Real Time Analytics at Scale with Druid 28, 2017](https://www.youtube.com/watch?v=tFIdKPHP0ts)
-- [https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/](Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets)
+- [Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/)
 
 
 ## Papers
