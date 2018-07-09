@@ -92,6 +92,9 @@
 
 - [druidry](https://github.com/zapr-oss/druidry) - A Java Client and query generator for Druid
 
+### Go
+
+- [godruid](https://github.com/shunfei/godruid)
 
 ## Articles & Blog posts
 - [How to reduce the number of druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
