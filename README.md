@@ -107,6 +107,7 @@
 - [Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/)
 - [Why We Chose Druid to Power CoolaData’s Real-Time Analytics](http://www.dataprix.com/en/blog-it/analytics/why-we-chose-druid-power-cooladata-s-real-time-analytics)
 - [How to reduce the number of Druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
+- [Performance evaluation between different druid roll-up levels](http://www.malinga.me/performance-evaluation-between-different-druid-roll-up-levels/)
 
 ## Videos
 
