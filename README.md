@@ -1,7 +1,6 @@
 # awesome-druid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Druid
-
 - [Druid](http://druid.io)
 - [Apache Druid](http://druid.apache.org)
 - [Druid github](https://github.com/druid-io/druid)
@@ -52,48 +51,38 @@
 ## Clients
 
 ### Python
-
 - [pydruid](https://github.com/druid-io/pydruid) - A python client for Druid
 
 ### R
-
 - [RDruid](https://github.com/druid-io/RDruid) - An R connector for Druid
 
 ### JavaScript
-
 - [plywood](https://github.com/implydata/plywood) - A higher level API for Druid. An extension of the work that was started in facet.js.
 - [node-druid-query](https://github.com/7eggs/node-druid-query) - A Node.js client for Druid
 
 ### Clojure
-
 - [clj-druid](https://github.com/y42/clj-druid) - A Clojure client for Druid
 
 ### Ruby
-
 - [ruby-druid](https://github.com/ruby-druid/ruby-druid) - A ruby client for Druid
 - [druid_config](https://github.com/redBorder/druid_config) - A ruby client to configure and check the status of a Druid Cluster
 - [druiddb-ruby](https://github.com/andremleblanc/druiddb-ruby) - A Ruby client for Druid using the Kafka Indexing Service
 
 ### SQL
-
 - [Apache Calcite](Apache Calcite) - SQL parser, planner and query engine whose Druid adapter can query data residing in Druid, and combine it with data in other locations; has local and remote JDBC drivers powered by Avatica
 - [plyql](https://github.com/implydata/plyql) - A command line and HTTP interface for issuing SQL queries to Druid
 
 ### PHP
-
 - [druid-php](https://github.com/pixelfederation/druid-php) - A PHP client for Druid
 - [PHP-Druid](https://github.com/Neeke/PHP-Druid) - A Druid driver for PHP with PECL extension
 
 ### Scala
-
 - [scruid](https://github.com/ing-bank/scruid) - A Scala client for Druid
 
 ### Java
-
 - [druidry](https://github.com/zapr-oss/druidry) - A Java Client and query generator for Druid
 
 ### Go
-
 - [godruid](https://github.com/shunfei/godruid)
 
 ## Articles & Blog posts
@@ -108,30 +97,28 @@
 - [Why We Chose Druid to Power CoolaData’s Real-Time Analytics](http://www.dataprix.com/en/blog-it/analytics/why-we-chose-druid-power-cooladata-s-real-time-analytics)
 - [How to reduce the number of Druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
 - [Performance evaluation between different druid roll-up levels](http://www.malinga.me/performance-evaluation-between-different-druid-roll-up-levels/)
+- [Realtime Fast Data Analytics with Druid (2016)](https://blog.codecentric.de/en/2016/08/realtime-fast-data-analytics-druid/)
+- [A Comparison of Time Series Databases and Netsil’s Use of Druid](https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206)
 
 ## Videos
-
-- [Druid Interactive Queries Meet Real-Time Data Eric Tschetter and Danny Yuan 2013](https://www.youtube.com/watch?v=Dlqj34l2upk)
-- [Druid: Powering Interactive Data Applications at Scale by Fangjin Yang 2016](https://www.youtube.com/watch?v=vbH8E0nH2Nw)
-- [Interactive Exploratory Analytics with Druid | DataEngConf SF 2017](https://www.youtube.com/watch?v=rbQaCazQ0gI)
-- [How Superset and Druid Power Real-Time Analytics at Airbnb | DataEngConf SF 2017](https://www.youtube.com/watch?v=W_Sp4jo1ACg)
-- [Analyze Streaming Data in About 30 Minutes with HDP and Druid 2017](https://www.youtube.com/watch?v=pvtdvoZ83uk)
-- [Introduction to Druid by Fangjin Yang 2014](https://www.youtube.com/watch?v=GtHu4TVs0xI)
-- [DRUID SUB SECOND OLAP QUERIES OVER PETABYTES OF STREAMING DATA 2017](https://www.youtube.com/watch?v=iIaceyMLrQA)
-- [Jan Graßegger - Real-time analytics with Flink and Druid 2016](https://www.youtube.com/watch?v=mYGF4BUwtaw)
-- [Real Time Analytics at Scale with Druid 28, 2017](https://www.youtube.com/watch?v=tFIdKPHP0ts)
-- [Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/)
-- [A Comparison of Time Series Databases and Netsil’s Use of Druid](https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206)
-- [Druid and Spark Together – Mixing Analytics Workflows](https://metamarkets.com/2017/druid-and-spark-together-mixing-analytics-workflows/)
+- [Analyze Streaming Data in About 30 Minutes with HDP and Druid (2017)](https://www.youtube.com/watch?v=pvtdvoZ83uk)
+- [Interactive Exploratory Analytics with Druid | DataEngConf SF (2017)](https://www.youtube.com/watch?v=rbQaCazQ0gI)
+- [How Superset and Druid Power Real-Time Analytics at Airbnb | DataEngConf SF (2017)](https://www.youtube.com/watch?v=W_Sp4jo1ACg)
+- [DRUID SUB SECOND OLAP QUERIES OVER PETABYTES OF STREAMING DATA (2017)](https://www.youtube.com/watch?v=iIaceyMLrQA)
+- [Real Time Analytics at Scale with Druid (2017)](https://www.youtube.com/watch?v=tFIdKPHP0ts)
+- [Druid and Spark Together – Mixing Analytics Workflows (2017)](https://metamarkets.com/2017/druid-and-spark-together-mixing-analytics-workflows/)
+- [Druid: Powering Interactive Data Applications at Scale by Fangjin Yang (2016)](https://www.youtube.com/watch?v=vbH8E0nH2Nw)
+- [Jan Graßegger - Real-time analytics with Flink and Druid (2016)](https://www.youtube.com/watch?v=mYGF4BUwtaw)
 - [Druid for real-time analysis (2016)](https://yogsototh.github.io/mkdocs/druid/druid.html)
+- [Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets (2015)](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/)
+- [Introduction to Druid by Fangjin Yang (2014)](https://www.youtube.com/watch?v=GtHu4TVs0xI)
+- [Druid Interactive Queries Meet Real-Time Data Eric Tschetter and Danny Yuan (2013)](https://www.youtube.com/watch?v=Dlqj34l2upk)
 
 ## Papers
-
 - [Optimizing Druid with Roaring bitmaps](https://www.researchgate.net/profile/Daniel_Lemire/publication/304352004_Optimizing_Druid_with_Roaring_bitmaps/links/5a3a9268a6fdcc3d07afb140/Optimizing-Druid-with-Roaring-bitmaps.pdf?origin=publication_detail)
 - [Druid: A real-time analytical data store](https://www.researchgate.net/profile/Fangjin_Yang/publication/266656620_Druid_A_real-time_analytical_data_store/links/54f5e1760cf21d8b8a5b957a/Druid-A-real-time-analytical-data-store.pdf?origin=publication_detail)
 
 ## Alternatives
-
 - [Pinot](https://github.com/linkedin/pinot)
 - [ClickHouse](https://clickhouse.yandex/)
 - [Kylin](https://kylin.apache.org/)
