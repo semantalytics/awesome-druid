@@ -86,6 +86,7 @@
 - [godruid](https://github.com/shunfei/godruid)
 
 ## Articles & Blog posts
+- [Event Stream Analytics at Walmart with Druid (2017)](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)
 - [How to reduce the number of druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
 - [Druid Blog](http://druid.io/blog/)
 - [Druid, Imply and Looker 5 bring OLAP Analysis to BigQuery’s Data Warehouse](https://medium.com/mark-rittman/druid-imply-and-looker-5-bring-olap-analysis-to-bigquerys-data-warehouse-ae0cb5ffb3a4)
@@ -100,6 +101,7 @@
 - [Realtime Fast Data Analytics with Druid (2016)](https://blog.codecentric.de/en/2016/08/realtime-fast-data-analytics-druid/)
 - [A Comparison of Time Series Databases and Netsil’s Use of Druid](https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206)
 - [Introduction to Indexing, Aggregation and Querying in Druid (2015)](https://zcox.wordpress.com/2015/04/05/introduction-to-indexing-aggregation-and-querying-in-druid/)
+
 
 ## Videos
 - [Analyze Streaming Data in About 30 Minutes with HDP and Druid (2017)](https://www.youtube.com/watch?v=pvtdvoZ83uk)
