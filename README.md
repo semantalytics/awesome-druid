@@ -101,7 +101,7 @@
 - [Realtime Fast Data Analytics with Druid (2016)](https://blog.codecentric.de/en/2016/08/realtime-fast-data-analytics-druid/)
 - [A Comparison of Time Series Databases and Netsil’s Use of Druid](https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206)
 - [Introduction to Indexing, Aggregation and Querying in Druid (2015)](https://zcox.wordpress.com/2015/04/05/introduction-to-indexing-aggregation-and-querying-in-druid/)
-
+- [The Art of Approximating Distributions: Histograms and Quantiles at Scale](https://metamarkets.com/2013/histograms/)
 
 ## Videos
 - [Analyze Streaming Data in About 30 Minutes with HDP and Druid (2017)](https://www.youtube.com/watch?v=pvtdvoZ83uk)
