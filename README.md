@@ -26,9 +26,6 @@
 - [plyql](https://github.com/implydata/plyql)
 - [druid-spark-batch](https://github.com/metamx/druid-spark-batch)
 - [druid-mdx](https://github.com/julianhyde/druid-mdx) Example of running MDX on Druid via Mondrian and Calcite 
-- [Ultra-fast OLAP Analytics with Apache Hive and Druid – Part 1 of 3](https://hortonworks.com/blog/apache-hive-druid-part-1-3/)
-- [Benchmark: Sub-Second Analytics with Apache Hive and Druid - Part 2 of 3](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
-- [How to connect Tableau to Druid - Part 3 of 3](https://hortonworks.com/blog/connect-tableau-druid-hive/)
 
 ## Deployment
 - [druid-puppet](https://github.com/MrAlias/druid) Puppet module that sets up and configures a full druid cluster
@@ -102,6 +99,10 @@
 - [A Comparison of Time Series Databases and Netsil’s Use of Druid](https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206)
 - [Introduction to Indexing, Aggregation and Querying in Druid (2015)](https://zcox.wordpress.com/2015/04/05/introduction-to-indexing-aggregation-and-querying-in-druid/)
 - [The Art of Approximating Distributions: Histograms and Quantiles at Scale](https://metamarkets.com/2013/histograms/)
+- [Ultra-fast OLAP Analytics with Apache Hive and Druid – Part 1 of 3](https://hortonworks.com/blog/apache-hive-druid-part-1-3/)
+- [Benchmark: Sub-Second Analytics with Apache Hive and Druid - Part 2 of 3](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
+- [How to connect Tableau to Druid - Part 3 of 3](https://hortonworks.com/blog/connect-tableau-druid-hive/)
+- [Using Druid to Scale Complex Queries](https://dzone.com/articles/scaling-complex-queries-using-druid)
 
 ## Videos
 - [Analyze Streaming Data in About 30 Minutes with HDP and Druid (2017)](https://www.youtube.com/watch?v=pvtdvoZ83uk)
