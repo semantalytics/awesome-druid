@@ -40,6 +40,7 @@
 - [druid-metrics-to-kafka](https://github.com/quantiply/druid-metrics-to-kafka)
 
 ## UI
+- [turnilo](https://github.com/allegro/turnilo)
 - [swiv](https://github.com/yahoo/swiv)
 - [superset](http://superset.apache.org)
 - [metabase](https://github.com/metabase/metabase)
@@ -83,6 +84,7 @@
 - [godruid](https://github.com/shunfei/godruid)
 
 ## Articles & Blog posts
+- [Turnilo — let’s change the way people explore Big Data](https://allegro.tech/2018/10/turnilo-lets-change-the-way-people-explore-big-data.html)
 - [Event Stream Analytics at Walmart with Druid (2017)](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)
 - [How to reduce the number of druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
 - [Druid Blog](http://druid.io/blog/)
