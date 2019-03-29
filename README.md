@@ -105,6 +105,7 @@
 - [Benchmark: Sub-Second Analytics with Apache Hive and Druid - Part 2 of 3](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
 - [How to connect Tableau to Druid - Part 3 of 3](https://hortonworks.com/blog/connect-tableau-druid-hive/)
 - [Using Druid to Scale Complex Queries](https://dzone.com/articles/scaling-complex-queries-using-druid)
+- [How Druid enables analytics at Airbnb (2018)](https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c)
 
 ## Videos
 - [Analyze Streaming Data in About 30 Minutes with HDP and Druid (2017)](https://www.youtube.com/watch?v=pvtdvoZ83uk)
