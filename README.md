@@ -89,6 +89,7 @@
 - [godruid](https://github.com/shunfei/godruid)
 
 ## Articles & Blog posts
+- [Ebay Blog: Monitoring at Ebay with Druid](https://www.ebayinc.com/stories/blogs/tech/monitoring-at-ebay-with-druid/)
 - [Turnilo — let’s change the way people explore Big Data](https://allegro.tech/2018/10/turnilo-lets-change-the-way-people-explore-big-data.html)
 - [Event Stream Analytics at Walmart with Druid (2017)](https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7)
 - [How to reduce the number of druid segments](http://www.tothenew.com/blog/how-to-reduce-the-number-of-druid-segments/)
